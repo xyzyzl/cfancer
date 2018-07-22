@@ -9,3 +9,5 @@ From old contests that I did not participate in
 because im bad at cs
 
 but that's a given :(
+
+> Or just don’t suck at it
