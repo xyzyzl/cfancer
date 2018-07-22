@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Suit and Tie
+// Author      : Albert Ye
+// Version     : 1
+// Copyright   : what is a copyright
+// Description : tensk you dark passage & delfino plaza
+//============================================================================
+
 #include <bits/stdc++.h>
 
 #define MAXN 101
