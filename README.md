@@ -1,8 +1,11 @@
 # Codeforces problems
-I am bad at CS \n
+I am bad at CS
+
 I am very bad at CS
 
-# codeforces/problemset
-From old contests that I did not participate in \n
-because im bad at cs \n
+## codeforces/problemset
+From old contests that I did not participate in
+
+because im bad at cs
+
 but that's a given :(
