@@ -1,4 +1,10 @@
-// Reordering the array: greedy
+//============================================================================
+// Name        : Reordering the array
+// Author      : Albert Ye
+// Version     : 1
+// Copyright   : what is a copyright
+// Description : Greedy O(N) solution
+//============================================================================
 
 import java.util.*;
 
